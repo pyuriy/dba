@@ -138,4 +138,3 @@ rm lab.db
 
 ---
 
-Would you like a Bash script that automates all these steps for repeatable lab setup?
