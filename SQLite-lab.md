@@ -222,4 +222,4 @@ echo "    sqlite3 ~/sqlite_lab/lab.db"
 - A query to find missing IDs (e.g., 3 and 6)
 - A clean workspace in `~/sqlite_lab`
 
-Would you like to extend this script to include duplicate detection or export results to a CSV file?
+
