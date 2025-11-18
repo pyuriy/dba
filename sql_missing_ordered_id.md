@@ -79,7 +79,7 @@ FROM your_table;
 
 ---
 
-Absolutely, Yuriy. Here's a **comprehensive SQLite lab** to help you practice detecting missing sequential IDs using recursive CTEs and related techniques. This lab is designed to reinforce your understanding of SQL logic, recursion, and data integrity checks.
+Here's a **comprehensive SQLite lab** to help you practice detecting missing sequential IDs using recursive CTEs and related techniques. This lab is designed to reinforce your understanding of SQL logic, recursion, and data integrity checks.
 
 ---
 
