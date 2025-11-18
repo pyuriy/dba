@@ -1,5 +1,7 @@
 To ensure that a sequential `id` column (e.g., primary key or auto-increment) is **not broken** and to **find missing numbers** in SQL, you can use a few techniques depending on your database system. Here's a general approach that works across most SQL dialects:
 
+How to install and use SQLite is described [here](./SQLite-lab.md)
+
 ---
 
 ## 🧮 1. Detect Missing IDs Using a Sequence Generator
